@@ -1,0 +1,28 @@
+[android]
+dirs=native
+
+[design]
+height=450
+policy=show-all
+width=800
+
+[html5]
+dirs=html5
+
+[ios]
+dirs=native
+
+[mac]
+dirs=native
+
+[project]
+dirs=res src
+executable=Watermelon
+identifier=com.mycompany.watermelonwithme
+name=Watermelon With Me
+orientation=landscape
+startup=native/main.js
+version=1.0
+
+[windows]
+dirs=native
